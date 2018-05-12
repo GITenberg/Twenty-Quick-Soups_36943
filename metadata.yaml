@@ -1,0 +1,37 @@
+_repo: Twenty-Quick-Soups_36943
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rorer, S. T.
+    aliases:
+    - Rorer, Mrs. (Sarah Tyson)
+    - Rorer, S. T. (Sarah Tyson)
+    - Rorer, Sarah Tyson Heston
+    birthdate: 1849
+    deathdate: 1937
+    gutenberg_agent_id: '2036'
+    url: http://www.gutenberg.org/2009/agents/2036
+description: ''
+gutenberg_issued: '2011-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36943'
+  lccn: 07027857
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Soups'
+tableOfContents: Cream of asparagus -- Cream of corn -- Cream of lettuce -- Cream
+  of beets -- Tomato soup -- Clear tomato with sago -- Brown broth -- Cheese balls
+  -- Bisque of clam -- Club clam soup -- Mock oyster soup -- Cucumber tapioca soup
+  -- Quick clear soup -- A la royal -- Bisque of salmon -- Currant soup -- Chocolate
+  soup -- Cream of chestnut soup -- Pistachio soup -- Ye food for ye gods -- Oatmeal
+  soup.
+title: Twenty Quick Soups
+url: http://www.gutenberg.org/ebooks/36943
